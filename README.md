@@ -19,7 +19,7 @@ wasm-pack build --target web
 ```
 
 ## Run
-From the [rr] run:
+From the [rr](#rr) run:
 ```bash
 http .
 ```
